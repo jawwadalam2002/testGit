@@ -1,7 +1,7 @@
 
 <?php
 /**
- * Define MyClass sdsds
+ * Define MyClass sdsds game zone. com
  */
 class MyClass
 {
